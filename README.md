@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hello everybody,
+
+Currently learnig GitHub and doing this for personal learning.
+
+Good morning, good evening and good night!
